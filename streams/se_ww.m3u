@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SVT1.se",SVT1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT1.se",SVT1
 https://svt1-c.akamaized.net/se/svt1/master.m3u8
-#EXTINF:-1 tvg-id="SVT2.se",SVT2 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT2.se",SVT2
 https://svt2-c.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-id="SVT24.se",SVT24 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SVT24.se",SVT24
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="Barnkanalen",SVT Kunskapskanalen / Barnkanalen (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Barnkanalen",SVT Kunskapskanalen / Barnkanalen
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
-#EXTINF:-1 tvg-id="AreWeThereYet.us",Are we there Yet? [Geo-blocked]
+#EXTINF:-1 tvg-id="AreWeThereYet.us",Are we there Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake
 https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+
 https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English
 https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us",Failarmy International
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
@@ -55,7 +55,7 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.uk",WildEarth [Geo-blocked]
+#EXTINF:-1 tvg-id="WildEarth.uk",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us",World Poker Tour
 https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8
