@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SVT1.se",SVT1
-https://svt1-c.akamaized.net/se/svt1/master.m3u8
+https://svt-live-channel.akamaized.net/l0/se/svt1/master-fmp4.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="SVT2.se",SVT2
-https://svt2-c.akamaized.net/se/svt2/master.m3u8
-#EXTINF:-1 tvg-id="SVT24.se",SVT24
-https://svtb-c.akamaized.net/se/svtb/master.m3u8
-#EXTINF:-1 tvg-id="Barnkanalen",SVT Kunskapskanalen / Barnkanalen
-https://svtk-c.akamaized.net/se/svtk/master.m3u8
+https://svt-live-channel.akamaized.net/l0/se/svt2/master-fmp4.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="Barnkanalen.se",SVT Barn
+https://svt-live-channel.akamaized.net/l0/se/svtb/master-fmp4.m3u8?defaultSubLang=1
+#EXTINF:-1 tvg-id="Kunskapskanalen.se",SVT Kunskapskanalen
+https://svt-live-channel.akamaized.net/l0/se/svtk/master-fmp4.m3u8?defaultSubLang=1
 #EXTINF:-1 tvg-id="AreWeThereYet.us",Are we there Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake
